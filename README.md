@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on my degree
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on projects
-- 🤔 I’m looking for help with learning
-- 💬 Ask me about code
-- 📫 How to reach me: email me
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: i like pixxa
+1. I attend the University of Chicago
+2. First tech I owned was an iPod Touch
+3. Hometown is Chicago
+4. I study Computer Science
+5. I am a latino computer science student aspiring to make a change in the world.
+Insert a picture using HTML (some help from the community)
+![alt text](https://i0.wp.com/biocars.uchicago.edu/wp-content/uploads/2019/05/cropped-logo.png?ssl=1 "UChicago Logo")
